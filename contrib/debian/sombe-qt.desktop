@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SOMBE
+Comment=SOMBE P2P Cryptocurrency
+Comment[fr]=SOMBE, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SOMBE, eşten eşe kriptografik sanal para birimi
+Exec=sombe-qt %u
+Terminal=false
+Type=Application
+Icon=sombe128
+MimeType=x-scheme-handler/sombe;
+Categories=Office;Finance;
